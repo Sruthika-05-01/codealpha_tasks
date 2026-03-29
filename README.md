@@ -143,8 +143,8 @@ Structured code with clean documentation, model evaluation, and exported results
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Duvva%20Sruthika-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Duvva%20Sruthika-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sruthika-duvva)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sruthika-05-01)
 
 ---
 
