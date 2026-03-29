@@ -1,0 +1,5 @@
+Model,Test_Accuracy_%,CV_Score_5fold_%,Precision_Setosa,Precision_Versicolor,Precision_Virginica,Recall_Setosa,Recall_Versicolor,Recall_Virginica,F1_Setosa,F1_Versicolor,F1_Virginica,Best_Model
+K-Nearest Neighbors (k=5),96.67,95.83,1.00,1.00,0.90,1.00,0.90,1.00,1.00,0.95,0.95,No
+Decision Tree,96.67,94.17,1.00,0.91,1.00,1.00,1.00,0.90,1.00,0.95,0.95,No
+Logistic Regression,96.67,96.67,1.00,1.00,0.91,1.00,0.91,1.00,1.00,0.95,0.95,No
+Random Forest,100.00,97.50,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,Yes
